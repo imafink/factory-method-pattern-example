@@ -9,5 +9,4 @@ public class FmpDemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(FmpDemoApplication.class, args);
 	}
-
 }
